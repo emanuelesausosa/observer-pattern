@@ -1,0 +1,11 @@
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\bin\Debug\netcoreapp2.2\RamaWeather.Cnsol.deps.json
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\bin\Debug\netcoreapp2.2\RamaWeather.Cnsol.runtimeconfig.json
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\bin\Debug\netcoreapp2.2\RamaWeather.Cnsol.runtimeconfig.dev.json
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\bin\Debug\netcoreapp2.2\RamaWeather.Cnsol.dll
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\bin\Debug\netcoreapp2.2\RamaWeather.Cnsol.pdb
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.csprojAssemblyReference.cache
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.csproj.CoreCompileInputs.cache
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.AssemblyInfoInputs.cache
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.AssemblyInfo.cs
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.dll
+C:\Users\Sosa\RiderProjects\RamaWeather\RamaWeather.Cnsol\obj\Debug\netcoreapp2.2\RamaWeather.Cnsol.pdb

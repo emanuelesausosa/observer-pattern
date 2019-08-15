@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sosa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sosa\\.nuget\\packages",
+      "C:\\Users\\Sosa\\.dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
